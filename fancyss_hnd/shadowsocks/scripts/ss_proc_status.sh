@@ -75,11 +75,11 @@ echo_version() {
 	echo ① 程序版本（插件版本：$SOFVERSION）：
 	echo -----------------------------------------------------------
 	echo "程序			版本		备注"
-	echo "ss-redir		3.3.3		2019年11月03日编译"
-	echo "ss-tunnel		3.3.3		2019年11月03日编译"
-	echo "ss-local		3.3.3		2019年11月03日编译"
+	echo "ss-redir		3.3.4		2020年01月12日编译"
+	echo "ss-tunnel		3.3.4		2020年01月12日编译"
+	echo "ss-local		3.3.4		2020年01月12日编译"
 	echo "obfs-local		0.0.5		2018年11月25日编译"
-	echo "v2ray-plugin		1.2.0		2019年10月07日编译"
+	echo "v2ray-plugin		1.3.0		2020年02月05日编译"
 	echo "ssrr-redir		3.5.3		2018年12月06日编译"
 	echo "ssrr-local		3.5.3		2018年12月06日编译"
 	echo "haproxy			2.1.2		2020年01月06日编译"
